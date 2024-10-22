@@ -1,0 +1,8 @@
+@layer base {
+    body {
+        min-height: 100dvh;
+        display: grid;
+        place-content: center;
+        width: 100%;
+    }
+}
