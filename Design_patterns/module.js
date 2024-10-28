@@ -5,6 +5,7 @@ const Module = (function () {
     console.log(privateVariable);
   }
 
+  
   return {
     publicMethod: function () {
       console.log("This is a public key function");
